@@ -45,5 +45,5 @@ def main(pag: ft.Page):
 #target = = = definir qual a pagina a ser exibida
 #view = = = modo de exibição que deseja
 #ft.app(target=main, view=ft.WEB_BROWSER)
-ft.app(target=main, view=ft.WEB_BROWSER)
+ft.app(target=main)
 
